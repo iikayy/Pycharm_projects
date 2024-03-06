@@ -1,0 +1,3 @@
+amazon | ii_kayy@yahoo.com | abc
+web | ii_kayy@yahoo.com | oop
+twitter | ii_kayy@yahoo.com | uui
